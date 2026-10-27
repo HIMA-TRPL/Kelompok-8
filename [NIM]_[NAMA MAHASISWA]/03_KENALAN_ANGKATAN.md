@@ -66,7 +66,7 @@
 ### 33 264311033 - AKBAR PUTRA PRATAMA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **NIM:** 264311033
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -77,7 +77,7 @@
 * ### 34 264311034 - ALEXSANDRIA CAHAYA ADZANI 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **NIM:** 264311034
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -87,8 +87,8 @@
 
 * ### 35 264311035 - ANISA LATIFATUL ROHMA 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** ANISA LATIFATUL ROHMA 
+* **NIM:** 264311035
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -98,8 +98,8 @@
 
 * ### 36 264311036 - ANNISA NIMASTURNA MEYSARAHMA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** ANNISA NIMASTURNA MEYSARAHMA
+* **NIM:** 264311036
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -109,8 +109,8 @@
 
 * ### 37 264311037 - ANASTASYA SILVIA MONICA 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** ANASTASYA SILVIA MONICA 
+* **NIM:** 264311037
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -120,8 +120,8 @@
 
 * ### 38 264311038 - ARDHAN IRSYAD MAULANA 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** ARDHAN IRSYAD MAULANA 
+* **NIM:** 264311038
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -131,8 +131,8 @@
 
 * ### 39 264311039 - DEWI WASILATUL KHOIRIYAH 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** DEWI WASILATUL KHOIRIYAH 
+* **NIM:** 264311039
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -142,8 +142,8 @@
 
 * ### 40 264311040 - FAIRUZ NADHIR RAHMAD
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** FAIRUZ NADHIR RAHMAD
+* **NIM:** 264311040
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -153,8 +153,8 @@
 
 * ### 41 264311041 - FAUZAN WISAM FALAHUL BASHIROH
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** FAUZAN WISAM FALAHUL BASHIROH
+* **NIM:** 264311041
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -164,8 +164,8 @@
 
 * ### 42 264311042 - GADING FANDY RAYA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** GADING FANDY RAYA
+* **NIM:** 264311042
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -175,8 +175,8 @@
 
 * ### 43 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** GLENDY DEVANNO ARDIANSYAH PUTRA
+* **NIM:** 264311043
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -186,8 +186,8 @@
 
 * ### 44 264311044 - HEKSA ABDILLAH AL GHOFAR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** HEKSA ABDILLAH AL GHOFAR
+* **NIM:** 264311044
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -197,8 +197,8 @@
 
 * ### 45 264311045 - KEYLILA EDENIA VINCA SUSANTO 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO
+* **NIM:** 264311045
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -208,8 +208,8 @@
 
 * ### 46 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** 264311046
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -219,8 +219,8 @@
 
 * ### 47 264311047 - MOHAMAD FATIR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** MOHAMAD FATIR
+* **NIM:** 264311047
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -230,8 +230,8 @@
 
 * ### 48 264311048 - MUHAMMAD AMIRUL HAFIDZ
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** MUHAMMAD AMIRUL HAFIDZ
+* **NIM:** 264311048
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -241,8 +241,8 @@
 
 * ### 49 264311049 - MUHAMMAD MAHLAYAN
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** MUHAMMAD MAHLAYAN
+* **NIM:** 264311049
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -252,8 +252,8 @@
 
 * ### 50 264311050 - NADILA WULANSARI
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** NADILA WULANSARI
+* **NIM:** 264311050
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -263,8 +263,8 @@
 
 * ### 51 264311051 - NAZHWA AL KARANA PUTRI
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** NAZHWA AL KARANA PUTRI
+* **NIM:** 264311051
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -274,8 +274,8 @@
 
 * * ### 52 264311052 - NAZRIL DESTA ADHANDA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** NAZRIL DESTA ADHANDA
+* **NIM:** 264311052
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -283,10 +283,10 @@
 * **Asal Sekolah:** [ASAL_SEKOLAH]
 * **Fun Fact:** [FUN_FACT]
 
-* ### 53 264311053 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* ### 53 264311053 - NILA AYUNISA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** NILA AYUNISA
+* **NIM:** 264311053
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -294,10 +294,10 @@
 * **Asal Sekolah:** [ASAL_SEKOLAH]
 * **Fun Fact:** [FUN_FACT]
 
-* ### 54 264311054 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* ### 54 264311054 - PANJI YUWONO WIJOYO
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** PANJI YUWONO WIJOYO
+* **NIM:** 264311054
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -305,10 +305,10 @@
 * **Asal Sekolah:** [ASAL_SEKOLAH]
 * **Fun Fact:** [FUN_FACT]
 
-* ### 55 264311055 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* ### 55 264311055 - RAIZZAN ULAYYA TAQQI
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** RAIZZAN ULAYYA TAQQI
+* **NIM:** 264311055
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -316,10 +316,10 @@
 * **Asal Sekolah:** [ASAL_SEKOLAH]
 * **Fun Fact:** [FUN_FACT]
 
-* ### 56 264311056 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* ### 56 264311056 - RESTU PRAYUGA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** RESTU PRAYUGA
+* **NIM:** 264311056
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -327,10 +327,10 @@
 * **Asal Sekolah:** [ASAL_SEKOLAH]
 * **Fun Fact:** [FUN_FACT]
 
-* ### 57 264311057 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* ### 57 264311057 - ROEFANDO ADJI RAMADHAN
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** ROEFANDO ADJI RAMADHAN
+* **NIM:** 264311057
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -338,10 +338,10 @@
 * **Asal Sekolah:** [ASAL_SEKOLAH]
 * **Fun Fact:** [FUN_FACT]
 
-* ### 58 264311058 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* ### 58 264311058 - SAKHIYA AZAM KHOIRUNNI'AM
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** SAKHIYA AZAM KHOIRUNNI'AM
+* **NIM:** 264311058
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
@@ -349,10 +349,10 @@
 * **Asal Sekolah:** [ASAL_SEKOLAH]
 * **Fun Fact:** [FUN_FACT]
 
-* ### 59 264311059 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* ### 59 264311059 - SINARA ENDRYA ALNEGAR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** SINARA ENDRYA ALNEGAR
+* **NIM:** 264311059
 * **TTL:** [TTL_MAHASISWA_BARU]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
