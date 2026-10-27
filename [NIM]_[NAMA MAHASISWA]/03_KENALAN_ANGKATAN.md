@@ -63,7 +63,205 @@
 * **Asal Sekolah:** SMKS AL-ISLAM JORESAN
 * **Fun Fact:** suka healing
 
-### [06] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 04 264311034 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 05 264311035 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 06 264311036 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+* ### 03 264311033 - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
