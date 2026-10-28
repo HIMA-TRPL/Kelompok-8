@@ -739,7 +739,7 @@
 * **Fun Fact:** GAME & RUNNING
 
 ### 67 264311067 - Elan Ghiyath Abhimanyu
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/067 Elan Ghiyat.jpeg.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/067 Elan Ghiyat.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Elan Ghiyath Abhimanyu
 * **NIM:** 264311067
 * **TTL:** Klaten, 29 Maret 2008
