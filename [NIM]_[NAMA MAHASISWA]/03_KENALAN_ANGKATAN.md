@@ -53,7 +53,7 @@
 * **Fun Fact:** tidak kuat dengan makanan pedas
 
 ### 32 264311032 - AHMAD RAISYA AL IQSAN
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032_ahmad raisya al iqsan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AHMAD RAISYA AL IQSAN
 * **NIM:** 264311032
 * **TTL:** PONOROGO, 27 NOVEMBER 2007
@@ -64,7 +64,7 @@
 * **Fun Fact:** suka healing
 
 ### 33 264311033 - AKBAR PUTRA PRATAMA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033_Akbar putra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:**  AKBAR PUTRA PRATAMA
 * **NIM:** 264311033
 * **TTL:** KOTA MADIUN, 25 JANUARI 2007
@@ -86,7 +86,7 @@
 * **Fun Fact:** 
 
 * ### 35 264311035 - ANISA LATIFATUL ROHMA 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311035_Annisa L.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANISA LATIFATUL ROHMA 
 * **NIM:** 264311035
 * **TTL:** KOTA MADIUN, 20 MARET 2007
@@ -97,7 +97,7 @@
 * **Fun Fact:** bersin bersin habis ngekek
 
 * ### 36 264311036 - ANNISA NIMASTURNA MEYSARAHMA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036_Annisa N.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANNISA NIMASTURNA MEYSARAHMA
 * **NIM:** 264311036
 * **TTL:** KOTA MADIUN, 07 MEI 2007
@@ -108,7 +108,7 @@
 * **Fun Fact:** drakor addict
 
 * ### 37 264311037 - ANASTASYA SILVIA MONICA 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037_Anatasya Silvia M.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANASTASYA SILVIA MONICA 
 * **NIM:** 264311037
 * **TTL:** KOTA MAGETAN, 5 JUNI 2008
@@ -119,7 +119,7 @@
 * **Fun Fact:** Spotify Addict
 
 * ### 38 264311038 - ARDHAN IRSYAD MAULANA 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038_Ardhan irsyad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ARDHAN IRSYAD MAULANA 
 * **NIM:** 264311038
 * **TTL:** KOTA MADIUN, 16 JUNI 2007
