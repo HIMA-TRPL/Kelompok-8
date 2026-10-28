@@ -4,7 +4,7 @@
 
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
-### [01] BPH - [NAMA_PANITIA_01]
+### [01] BPH - MUHAMMAD AKBAR FADILAH
 * <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_01]
 * **Jabatan:** [JABATAN]
@@ -14,7 +14,7 @@
 * **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
-### [02] BPH - [NAMA_PANITIA_02]
+### [02] BPH - MUHAMMAD ADAM AL-KIDRI
 * ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
 * **Nama Panitia:** [NAMA_PANITIA_02]
 * **Jabatan:** [JABATAN]
@@ -24,7 +24,7 @@
 * **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
-### [03] BPH - [NAMA_PANITIA_03]
+### [03] BPH - FATHUR ROSHIN HADDINANTA
 * ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
 * **Nama Panitia:** [NAMA_PANITIA_03]
 * **Jabatan:** [JABATAN]
@@ -34,6 +34,35 @@
 * **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
+### [04] BPH - NAILA ZAHRA YASMINE
+* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* **Nama Panitia:** [NAMA_PANITIA_03]
+* **Jabatan:** [JABATAN]
+* **TTL:** [TTL]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Username GitHub:** @[USERNAME_GITHUB_03]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+
+### [05] BPH - ALIVIA RIZKA WARDANI
+* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* **Nama Panitia:** [NAMA_PANITIA_03]
+* **Jabatan:** [JABATAN]
+* **TTL:** [TTL]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Username GitHub:** @[USERNAME_GITHUB_03]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+
+### [03] BPH - DHEA NOVIKA
+* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* **Nama Panitia:** [NAMA_PANITIA_03]
+* **Jabatan:** [JABATAN]
+* **TTL:** [TTL]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Username GitHub:** @[USERNAME_GITHUB_03]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
