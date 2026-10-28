@@ -42,7 +42,7 @@
 ## 🏫 Kelas 1B
 
 ### 31 264311031 - AHMAD MUJADID MUSYAFI'I
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_Ahmad Mujadid.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AHMAD MUJADID MUSYAFI'I
 * **NIM:** 264311031
 * **TTL:** MAGETAN, 9 DESEMBER 2007
