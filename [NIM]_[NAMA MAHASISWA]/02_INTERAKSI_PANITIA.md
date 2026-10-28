@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - FATHUR ROSHIN HADDINANTA
-* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+* <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_03]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -35,34 +35,34 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - NAILA ZAHRA YASMINE
-* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_03]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Username GitHub:** @[USERNAME_GITHUB_03]
 * **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+<!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - ALIVIA RIZKA WARDANI
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_03]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Username GitHub:** @[USERNAME_GITHUB_03]
 * **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+<!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - DHEA NOVIKA
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_03]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
 * **Nomer Handphone:** [NOMER_HANDPHONE]
 * **Username GitHub:** @[USERNAME_GITHUB_03]
 * **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+<!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
@@ -78,7 +78,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] Dagri - [NAMA_PANITIA_05]
-* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_05]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -88,7 +88,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] Dagri - [NAMA_PANITIA_06]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_06]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -112,7 +112,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] PSDM - [NAMA_PANITIA_08]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_08]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -122,7 +122,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] PSDM - [NAMA_PANITIA_09]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_09]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -146,7 +146,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Sosma - [NAMA_PANITIA_11]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_11]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -156,7 +156,7 @@
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ### [12] Sosma - [NAMA_PANITIA_12]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_12]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -180,7 +180,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PDD - [NAMA_PANITIA_14]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_14]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -190,7 +190,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] PDD - [NAMA_PANITIA_15]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_15]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -214,7 +214,7 @@
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [17] DKM - [NAMA_PANITIA_17]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_17]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -224,7 +224,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] DKM - [NAMA_PANITIA_18]
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px height="300px"> 
+*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** [NAMA_PANITIA_18]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
