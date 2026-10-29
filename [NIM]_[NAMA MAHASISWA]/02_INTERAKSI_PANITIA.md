@@ -45,7 +45,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - ALIVIA RIZKA WARDANI
-* <img src="assets/PANITIA/BPH/05 alivia rizka.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+* <img src="assets/PANITIA/BPH/05 aliviaa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** ALIVIA RIZKA WARDANI
 * **Jabatan:** Bendahara 1
 * **TTL:** Ngawi, 12 Sept 2007
@@ -361,6 +361,61 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * **Nomer_handphone:** 85731510557
 * **Username GitHub:** @silfinanurfadilah
 * **Asal Daerah:** magetan
+
+---
+
+## 🏛️ Dvisi HUMAS (Hubungan Masyarakat)
+
+---
+
+### [01] HUMAS - 
+* <img src="assets/PANITIA/HUMAS/01 adam N.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** 
+* **Jabatan:** 
+* **TTL:**
+* **Nomer_handphone:** 
+* **Username GitHub:** @
+* **Asal Daerah:** 
+<!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
+
+### [01] HUMAS - 
+* <img src="assets/PANITIA/HUMAS/02 raufa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** 
+* **Jabatan:** 
+* **TTL:**
+* **Nomer_handphone:** 
+* **Username GitHub:** @
+* **Asal Daerah:** 
+<!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
+
+### [01] HUMAS - 
+* <img src="assets/PANITIA/HUMAS/03 alvina.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** 
+* **Jabatan:** 
+* **TTL:**
+* **Nomer_handphone:** 
+* **Username GitHub:** @
+* **Asal Daerah:** 
+<!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
+
+### [01] HUMAS - 
+* <img src="assets/PANITIA/HUMAS/04 cristian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** 
+* **Jabatan:** 
+* **TTL:**
+* **Nomer_handphone:** 
+* **Username GitHub:** @
+* **Asal Daerah:** 
+<!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
+
+### [01] HUMAS - 
+* <img src="assets/PANITIA/HUMAS/05 atha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** 
+* **Jabatan:** 
+* **TTL:**
+* **Nomer_handphone:** 
+* **Username GitHub:** @
+* **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ---
