@@ -196,7 +196,7 @@
 
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
-### [10] Sosma - Anggi Wahyu Saputra
+### [01] Sosma - Anggi Wahyu Saputra
 * <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -206,7 +206,7 @@
 * **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
-### [11] Sosma - Muhammad Rofiqul Anam
+### [02] Sosma - Muhammad Rofiqul Anam
 *  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -216,7 +216,7 @@
 * **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
-### [12] Sosma - Edwin Nur Cahyo
+### [03] Sosma - Edwin Nur Cahyo
 *  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -226,7 +226,7 @@
 * **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
-### [12] Sosma - Muhsyam Fahriel S.
+### [04] Sosma - Muhsyam Fahriel S.
 *  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -236,7 +236,7 @@
 * **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
-### [12] Sosma - Lutfilah Ahmad
+### [05] Sosma - Lutfilah Ahmad
 *  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -314,7 +314,7 @@
 
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
-### [07] DKM - Andrian Maulana
+### [01] DKM - Andrian Maulana
 * <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -324,7 +324,7 @@
 * **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [07] DKM - Jimli Dwi Assiddiqi
+### [02] DKM - Jimli Dwi Assiddiqi
 * <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -334,7 +334,7 @@
 * **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [07] DKM - Dheandra Khairunnisa P.
+### [03] DKM - Dheandra Khairunnisa P.
 * <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -344,7 +344,7 @@
 * **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [07] DKM - Sekar Purwita Asri
+### [04] DKM - Sekar Purwita Asri
 * <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
@@ -354,7 +354,7 @@
 * **Asal Daerah:** 
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [07] DKM - Silfina Nur Fadilah
+### [05] DKM - Silfina Nur Fadilah
 * <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
