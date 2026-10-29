@@ -1,4 +1,4 @@
-## 👥 II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
+II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ---
 
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - NAILA ZAHRA YASMINE
-* <img src="assrts/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+* <img src="assrts/PANITIA/BPH/04 naila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** NAILA ZAHRA YASMINE
 * **Jabatan:** Sekre BPH
 * **TTL:** Madiun, 09 Oktober 2006
@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - ALIVIA RIZKA WARDANI
-* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+* <img src="assets/PANITIA/Dagri/05 alivia rizka.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** ALIVIA RIZKA WARDANI
 * **Jabatan:** Bendahara 1
 * **TTL:** Ngawi, 12 Sept 2007
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - DHEA NOVIKA
-* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/06 dhea N.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DHEA NOVIKA
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
@@ -67,19 +67,19 @@
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
-### [01] Dagri - ALVIAN DWIKY PUTRA S
+### [01] Dagri - ALVIAN DWIKY PUTRA SANTOSO
 * <img src="assets/PANITIA/Dagri/01 Alvian.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** 
-* **Jabatan:** 
-* **TTL:** 
-* **Nomer Handphone:** 
-* **Username GitHub:** @
-* **Asal Daerah:** 
+* **Nama Panitia:**  ALVIAN DWIKY PUTRA SANTOSO
+* **Jabatan:** Koor Dagri
+* **TTL:** Ponorogo, 2 Desember 2005
+* **Nomer Handphone:** : 082292537622
+* **Username GitHub:** @alvn22
+* **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] Dagri - DZAKWAN DARIS FAKHRUDDIN
 * <img src="assets/PANITIA/Dagri/02 Dzakwan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** 
+* **Nama Panitia:** DZAKWAN DARIS FAKHRUDDIN
 * **Jabatan:** Komdis
 * **TTL:** Madiun, 13 April 06
 * **Nomer Handphone:** 85163200636
@@ -90,11 +90,11 @@
 ### [03] Dagri - Firdaus Ilham F
 *  <img src="assets/PANITIA/Dagri/03 firdaus ilham.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
-* **Jabatan:** 
-* **TTL:** 
-* **Nomer Handphone:** 
-* **Username GitHub:** @
-* **Asal Daerah:** 
+* **Jabatan:** Anggota
+* **TTL:** Madiun, 01 Jan 07
+* **Nomer Handphone:** 81977285545
+* **Username GitHub:** @fadlukkr
+* **Asal Daerah:** CarubanZ
 <!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] Dagri - Azza Maulidya Wardani
@@ -132,7 +132,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [01] PSDM - Riyan Zakaria Zulkarnain
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/01 riyan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -142,7 +142,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] PSDM - Muhammad Dani T.
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+*  <img src="assets/PANITIA/Dagri/02 dani.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:** 
@@ -162,7 +162,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] PSDM - Abdul Aziz Mushthofa
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+*  <img src="assets/PANITIA/Dagri/04 aziz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:** 
@@ -172,7 +172,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] PSDM - Tiara Maya Lestari
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+*  <img src="assets/PANITIA/Dagri/05 tiara.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:** 
@@ -196,7 +196,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [01] Sosma - Anggi Wahyu Saputra
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/01 anggi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:** 
@@ -216,7 +216,7 @@
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] Sosma - Edwin Nur Cahyo
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+*  <img src="assets/PANITIA/Dagri/03 edwin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:** 
@@ -226,7 +226,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] Sosma - Muhsyam Fahriel S.
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+*  <img src="assets/PANITIA/Dagri/04 muhsyam fahriel.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:** 
@@ -236,7 +236,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] Sosma - Lutfilah Ahmad
-*  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+*  <img src="assets/PANITIA/Dagri/05 luthfillah ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:** 
@@ -250,7 +250,7 @@
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
 ### [01] PDD - Ardhana Syah Hidayat
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/01 ardhana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -260,7 +260,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] PDD - Raditya Alfareeza Purnama
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/02 raditya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -280,7 +280,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] PDD - Achmad Alvin Al Falah
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/04 achmad alvin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -290,7 +290,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] PDD - Daffa Hafist Atha Kuncoro
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/05 daffa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -300,7 +300,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] PDD - Dinda Rahmawati
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/06 dinda.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -324,7 +324,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] DKM - Jimli Dwi Assiddiqi
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/02 jimly.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -334,7 +334,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] DKM - Dheandra Khairunnisa P.
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/03 dheandra k.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -344,7 +344,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] DKM - Sekar Purwita Asri
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/04 sekar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
@@ -354,7 +354,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] DKM - Silfina Nur Fadilah
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/05 silfina.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** 
 * **Jabatan:** 
 * **TTL:**
