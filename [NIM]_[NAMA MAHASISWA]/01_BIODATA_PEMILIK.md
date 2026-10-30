@@ -1,14 +1,13 @@
 # 📑 GIT-Ungu 2026: BUKU UNGU DIGITAL MPP HIMA-TRPL
 
 ## 👤 I. DATA DIRI MAHASISWA BARU
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
-
+* **Nama Lengkap:** [ADHINIA_ALKURRATU_AINNI]
+* **NIM:** [264311001]
+* **TTL:** [MADIUN,11-12-2007]
+* **Nomer Handphone:** [0895397031103]
+* **Nama Kelompok:** [EKPRESS]
+* **Asal Daerah:** [NGAWI]
+* **Asal Sekolah:** [SMAN_1_NGLAMES]
+* **Fun Fact:** [BAIK]
 ---
 
