@@ -97,7 +97,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * **Asal Daerah:** CarubanZ
 <!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
 
-### [04] Dagri - Azza Maulidya Wardani
+### [04] Dagri - Azza Maulidya Wardani (keluar)
 *  <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** -
 * **Jabatan:** -
@@ -152,13 +152,13 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] PSDM - Rindy Cantika Agustina P.
-*  <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** 
-* **Jabatan:** 
-* **TTL:** 
-* **Nomer Handphone:** 
-* **Username GitHub:** @
-* **Asal Daerah:** 
+*  <img src="assets/PANITIA/PSDM/03 rindy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
+* **Nama Panitia:** Rindy Cantika Agustina P.
+* **Jabatan:** Anggota Divisi PSDM 
+* **TTL:** Madiun, 31 Agustus 2006
+* **Nomer Handphone:**  081553111275
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] PSDM - Abdul Aziz Mushthofa
@@ -205,14 +205,14 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * **Asal Daerah:** tulungagung
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
-### [02] Sosma - Muhammad Rofiqul Anam
+### [02] Sosma - muhammad rofiqul anam (dihapus)
 *  <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** 
-* **TTL:** 
-* **Nomer Handphone:** 
-* **Username GitHub:** @
-* **Asal Daerah:** 
+* **Nama Panitia:** -
+* **Jabatan:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Username GitHub:** @-
+* **Asal Daerah:** -
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] Sosma - Edwin Nur Cahyo
@@ -314,9 +314,9 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [01] DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/01 andrian maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:**  Andrian Maulana
-* **Jabatan:** 
+* **Jabatan:** koor DKM
 * **TTL:**
 * **Nomer_handphone:** 
 * **Username GitHub:** @
@@ -495,7 +495,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] VOLUNTEER - Galang Surya Prasetyo
-* <img src="assets/PANITIA/Volunteer/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/08 galang.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer
 * **TTL:** tenggarong, 19 februari 2007
