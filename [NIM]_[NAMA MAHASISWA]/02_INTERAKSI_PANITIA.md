@@ -272,11 +272,11 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 ### [03] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** 
-* **TTL:**
-* **Nomer_handphone:** 
-* **Username GitHub:** @
-* **Asal Daerah:** 
+* **Jabatan:** PDD
+* **TTL:** Ngawi, 24 september 05
+* **Nomer_handphone:** 0895405971849
+* **Username GitHub:** @hannnzu
+* **Asal Daerah:** ngawi
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] PDD - Achmad Alvin Al Falah
@@ -492,6 +492,16 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * **Nomer_handphone:** 085731873063 
 * **Username GitHub:** @nanayaaa
 * **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
+
+### [07] VOLUNTEER - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Volunteer/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetyo
+* **Jabatan:** Volunteer
+* **TTL:** tenggarong, 19 februari 2007
+* **Nomer_handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** Kalimantan timur
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ---
