@@ -324,8 +324,8 @@
 * **Asal Daerah:** -
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
-### [31] PDD - mas alvin.jpeg
-* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
+### [31] PDD - Achmad Alvin Al Falah
+* <img src="assets/PANITIA/PDD/kak alvin.jpeg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
 * **Jabatan:** PJ
 * **TTL:** Ponorogo, 18 Januari 2006
