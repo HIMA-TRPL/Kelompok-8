@@ -14,9 +14,9 @@
 * **Asal Daerah:** [NGAWI]
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
-### [02] BPH - [MUHAMMAD_ADAM_AL-KIDRI]
-* <img src="assets/PANITIA/BPH/BPH - MUHAMMAD ADAM AL-KIDRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [MUHAMMAD_ADAM_AL-KIDRI]
+### [02] BPH - [MUHAMMAD_ADAM_AL_KIDRI]
+* <img src="assets/PANITIA/BPH/BPH - MUHAMMAD ADAM AL KIDRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [MUHAMMAD_ADAM_AL_KIDRI]
 * **Jabatan:** [WAKIL_KETUA_UMUM]
 * **TTL:** [MAGETAN,08_SEPTEMBER_2005]
 * **Nomer Handphone:** [087756523263]
@@ -108,7 +108,7 @@
 * **Asal Daerah:** [PACITAN]
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
-### [11] Dagri - [NADIA_TIFARA_SISIQ]
+### [11] Dagri - [NADIA_TIFARA_SIDIQ]
 * <img src="assets/PANITIA/Dagri/DAGRI - NADIA TIFARA SIDIQ.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADIA_TIFARA_SIDIQ]
 * **Jabatan:** [STAFF]
@@ -200,10 +200,10 @@
 * <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_PUTRI]
 * **Jabatan:** [STAFF]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [MADIUN,31_AGUSTUS_2006]
+* **Nomer Handphone:** [081553111275]
+* **Username GitHub:** @[111ndy]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - [ABDUL_AZIZ_MUSHTHOFA]
@@ -362,10 +362,10 @@
 * <img src="assets/PANITIA/DKM/DKM - ANDRIAN MAULANA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANDRIAN_MAULANA]
 * **Jabatan:** [KOORDINATOR]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [PONOROGO,19_SEPTEMBER_2005]
+* **Nomer Handphone:** [089542151260]
+* **Username GitHub:** @[driannmlnaa]
+* **Asal Daerah:** [PONOROGO]
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - [JIMLI_DWI_ASSIDDIQI]
@@ -481,6 +481,18 @@
 * **Username GitHub:** @[nanayaaa]
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - [GALANG_SURYA_PRASETYO]
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [GALANG_SURYA_PRASETYO]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [TENGGORARONG,19_FEBRUARI_2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [KALIMANTAN_TIMUR]
+<!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
+
+
 ---
 
 ---
