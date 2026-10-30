@@ -371,16 +371,16 @@
 * **Asal Sekolah:** SMKN 03 KOTA MADIUN
 * **Fun Fact:** Gampang tidur
 
-* ### 34 264311034 - ALEXSANDRIA CAHAYA ADZANI 
+* ### 34 264311034 - ALEXSANDRIA CAHAYA ADZANI ( SAYA SENDIRI)
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ALEXSANDRIA CAHAYA ADZANI
 * **NIM:** 264311034
 * **TTL:** MADIUN, 20 JULI 2007
-* **Nomer Handphone:** 
-* **Nama Kelompok:** 
-* **Asal Daerah:** 
-* **Asal Sekolah:** 
-* **Fun Fact:** 
+* **Nomer Handphone:** 083831646118
+* **Nama Kelompok:** Express
+* **Asal Daerah:** madiun
+* **Asal Sekolah:** SMAN 2 Madiun
+* **Fun Fact:** wi wok de tok
 
 * ### 35 264311035 - ANISA LATIFATUL ROHMA 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311035_Annisa L.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
