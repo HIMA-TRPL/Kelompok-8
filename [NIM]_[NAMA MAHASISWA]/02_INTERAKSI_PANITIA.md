@@ -255,11 +255,11 @@
 ### [25] Sosma - [Muhammad_Rofiqul_Anam]
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad_Rofiqul_Anam.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Rofiqul_Anam]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_25]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** [anggota]
+* **TTL:** [magetan,5-maret-2006]
+* **Nomer Handphone:** [085850296348]
+* **Username GitHub:** @[RofiqAnam]
+* **Asal Daerah:** [magetan]
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - [Edwin_Nur_Cahyo]
