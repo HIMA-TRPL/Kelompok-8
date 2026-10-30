@@ -306,13 +306,13 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [29] DKM - ANDRIAN MAULANA
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - ADRIAN MAULANA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANDRIAN MAULANA]
 * **Jabatan:** [KOORDINATOR]
-* **TTL:** [[TTL]]
-* **Nomer Handphone:** [[NOMER_HANDPHONE]]
-* **Username GitHub:** [@[USERNAME_GITHUB_30]]
-* **Asal Daerah:** [[KOTA/KABUPATEN]]
+* **TTL:** [PONOROGO, 19 SEPTEMBER 2005]
+* **Nomer Handphone:** [089524151260]
+* **Username GitHub:** [@driannmlnaa]
+* **Asal Daerah:** [PONOROGO]
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] DKM - JIMLI DWI ASSIDDIQI
