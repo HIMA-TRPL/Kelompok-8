@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - [Muhammad_Akbar_Fadilah]
-* <img src="assets/PANITIA/BPH/BPH - Muhammad_Akbar_Fadilah.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/muhammad akbar fadilah.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Akbar_Fadilah]
 * **Jabatan:** [Ketua_Umum]
 * **TTL:** [Banjarmasin,_17-Juli-2006]
@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [Muhammad_Adam_Al-Kidri]
-* <img src="assets/PANITIA/BPH/BPH - Muhammad_Adam_Al-Kidri.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/muhammad adam al-kidri.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Adam_Al-Kidri]
 * **Jabatan:** [Wakil_Ketua]
 * **TTL:** [Magetan,_08-September-2005]
@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [Fathur_Roshin_Haddinanta]
-* <img src="assets/PANITIA/BPH/BPH - Fathur_Roshin_Haddinanta.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/fathur roshin haddinanta.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Fathur_Roshin_Haddinanta]
 * **Jabatan:** [Sekretaris_1]
 * **TTL:** [Tulungagung,21-September-2005]
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - [Naila_Zahra_Yasmine]
-* <img src="assets/PANITIA/BPH/BPH - Naila_Zahra_Yasmine.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/naila zahra yasmine.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Naila_Zahra_Yasmine]
 * **Jabatan:** [Sekretaris_BPH]
 * **TTL:** [Madiun,09-Oktober-2006]
@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - [Alivia_Rizka_Wardani]
-* <img src="assets/PANITIA/BPH/BPH - Alivia_Rizka_Wardani.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/alivia rizka wardani.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alivia_Rizka_Wardani]
 * **Jabatan:** [Bendahara_1]
 * **TTL:** [Ngawi,12-September-2007]
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [Dhea_Novika]
-* <img src="assets/PANITIA/BPH/BPH - Dhea_Novika.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/dhea novika.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dhea_Novika]
 * **Jabatan:** [Bendahara_2]
 * **TTL:** [Madiun,13-November-2006]
@@ -67,7 +67,7 @@
 ## 🏙️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - [Alvian_Dwiky_Putra_S]
-* <img src="assets/PANITIA/Dagri/Dagri - Alvian_Dwiky_Putra_S.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/alvian dwiky putra.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvian_Dwiky_Putra_S]
 * **Jabatan:** [Koordinator]
 * **TTL:** [Ponorogo,2-Desember-2005]
@@ -77,7 +77,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - [Dzakwan_Daris_Fakhruddin]
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan_Daris_Fakhruddin.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/dzakwan daris .png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dzakwan_Daris_Fakhruddin]
 * **Jabatan:** []
 * **TTL:** [Madiun,_13-April-2006]
@@ -87,7 +87,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - [Firdaus_Ilham_F.]
-* <img src="assets/PANITIA/Dagri/Dagri - Firdaus_Ilham_F..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/firdaus ilham.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Firdaus_Ilham_F.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,_01-Jan-2007]
@@ -107,9 +107,9 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - [Bangkit_Cahya_Linuwih]
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit_Cahya_Linuwih.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/bangkit cahya linuwih.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Bangkit_Cahya_Linuwih]
-* **Jabatan:** []
+* **Jabatan:** [Staff_Muda_Dagri]
 * **TTL:** [pacitan_02-April-2006]
 * **Nomer Handphone:** [081230227986]
 * **Username GitHub:** @[Bangkitcahyalinuwih]
@@ -117,9 +117,9 @@
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ### [12] Dagri - [Nadia_Tifara_S.]
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia_Tifara_S..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/nadia tifara.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Nadia_Tifara_S.]
-* **Jabatan:** []
+* **Jabatan:** [Sie_Acara]
 * **TTL:** [Madiun,_27-Desember-2005]
 * **Nomer Handphone:** [081547416320]
 * **Username GitHub:** @[Nadia271205]
@@ -129,7 +129,7 @@
 ## 📣 Divisi Humas (Hubungan Masyarakat)
 
 ### [13] Humas - [Adam_Noverian]
-* <img src="assets/PANITIA/Humas/Humas - Adam_Noverian.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/adam noverian.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Adam_Noverian]
 * **Jabatan:** [Ketua_Humas]
 * **TTL:** [Surabaya,_8-November-2005]
@@ -139,7 +139,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - [Muhammad_Raufa_Hafid_W.]
-* <img src="assets/PANITIA/Humas/Humas - Muhammad_Raufa_Hafid_W..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/muhammad raufa hafid.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_W.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,_26-September-2005]
@@ -149,7 +149,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - [Alvina_Nur_Laila_Anggraini]
-* <img src="assets/PANITIA/Humas/Humas - Alvina_Nur_Laila_Anggraini.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/alvina nur laila anggraini.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvina_Nur_Laila_Anggraini]
 * **Jabatan:** [Anggota]
 * **TTL:** [Surabaya,_31-Maret-2005]
@@ -159,9 +159,9 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - [Cristian_Reynaldi]
-* <img src="assets/PANITIA/Humas/Humas - Cristian_Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/cristian reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Cristian_Reynaldi]
-* **Jabatan:** []
+* **Jabatan:** [Perkap]
 * **TTL:** [Jakarta,_18-Januari-2007]
 * **Nomer Handphone:** [088296706472]
 * **Username GitHub:** @[crysaldi]
@@ -169,7 +169,7 @@
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [17] Humas - [Atha_Aryasatya]
-* <img src="assets/PANITIA/Humas/Humas - Atha_Aryasatya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/atha aryasatya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Atha_Aryasatya]
 * **Jabatan:** [Staff_muda]
 * **TTL:** [Madiun_22-Februari-2005]
