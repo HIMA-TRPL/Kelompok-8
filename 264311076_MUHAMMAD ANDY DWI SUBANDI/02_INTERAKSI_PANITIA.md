@@ -198,7 +198,6 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] Sosma - MUHAMMAD ROFIQUL ANAM
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD ROFIQUL ANAM]
 * **Jabatan:** [STAFF]
 * **TTL:** [[TTL]]
