@@ -377,7 +377,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] DKM - [Dheandra_Khairunnisa_P.]
-* <img src="assets/PANITIA/DKM/DKM - Dheandra_Khairunnisa_P..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/dheandra khairunnisa.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dheandra_Khairunnisa_P.]
 * **Jabatan:** [Anggota_DKM]
 * **TTL:** [Madiun,_27-September-2005]
