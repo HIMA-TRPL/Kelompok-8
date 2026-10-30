@@ -1,4 +1,4 @@
-<img width="363" height="39" alt="image" src="https://github.com/user-attachments/assets/292aa499-d872-4b8d-9f03-74be23262c4e" /><img width="302" height="38" alt="image" src="https://github.com/user-attachments/assets/d588b24e-5ae9-45f5-8e22-66bb7ca8e3cd" /><img width="302" height="40" alt="image" src="https://github.com/user-attachments/assets/21dec70a-42ca-4e90-9ce4-37d810af479f" />II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
+II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ---
 
