@@ -89,7 +89,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [03] Dagri - Firdaus Ilham F
 *  <img src="assets/PANITIA/Dagri/03 firdaus ilham.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** 
+* **Nama Panitia:** Firdaus Ilham F
 * **Jabatan:** Anggota
 * **TTL:** Madiun, 01 Jan 07
 * **Nomer Handphone:** 81977285545
@@ -109,7 +109,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [05] Dagri - Bangkit Cahya Linuwih
 *  <img src="assets/PANITIA/Dagri/04 bangkit.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** 
+* **Nama Panitia:** Bangkit Cahya Linuwih
 * **Jabatan:** Dagri
 * **TTL:** pacitan 02 april 06
 * **Nomer Handphone:** 81230227986
@@ -163,7 +163,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [04] PSDM - Abdul Aziz Mushthofa
 *  <img src="assets/PANITIA/PSDM/04 aziz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** 
+* **Nama Panitia:** Abdul Aziz Mushthofa
 * **Jabatan:** Staff Muda / Ketupel
 * **TTL:** Tulungagung, 13 April 2006
 * **Nomer Handphone:** 87823352468
@@ -173,7 +173,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [05] PSDM - Tiara Maya Lestari
 *  <img src="assets/PANITIA/PSDM/05 tiara.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** 
+* **Nama Panitia:** Tiara Maya Lestari
 * **Jabatan:** Anggota PSDM
 * **TTL:** Nganjuk, 11 maret 06
 * **Nomer Handphone:** 89508724968
@@ -183,7 +183,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [06] PSDM - Azza Auliyaul F.
 *  <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** 
+* **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** 
 * **TTL:** 
 * **Nomer Handphone:** 
@@ -197,7 +197,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [01] Sosma - Anggi Wahyu Saputra
 * <img src="assets/PANITIA/Sosma/01 anggi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** 
+* **Nama Panitia:** Anggi Wahyu Saputra
 * **Jabatan:** Koor Sosma
 * **TTL:** Tulungagung, 14 Juni 05
 * **Nomer Handphone:** 81935495314
@@ -207,7 +207,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [02] Sosma - Muhammad Rofiqul Anam
 *  <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
-* **Nama Panitia:** 
+* **Nama Panitia:** Muhammad Rofiqul Anam
 * **Jabatan:** 
 * **TTL:** 
 * **Nomer Handphone:** 
@@ -446,7 +446,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [03] VOLUNTEER - Kunni Sofa Rahmayani
 * <img src="assets/PANITIA/Volunteer/03 kunni.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** 
+* **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 4 Juli 2006
 * **Nomer_handphone:** 81357895790
@@ -456,7 +456,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 
 ### [04] VOLUNTEER - Aisyah Nur Fadillah
 * <img src="assets/PANITIA/Volunteer/04 aisyah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** 
+* **Nama Panitia:** Aisyah Nur Fadillah
 * **Jabatan:** Volunteer
 * **TTL:** Magetan, 21 September 2006
 * **Nomer_handphone:** 82142461742
@@ -494,7 +494,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [07] VOLUNTEER - Galang Surya Prasetyo
+### [08] VOLUNTEER - Galang Surya Prasetyo
 * <img src="assets/PANITIA/Volunteer/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer
