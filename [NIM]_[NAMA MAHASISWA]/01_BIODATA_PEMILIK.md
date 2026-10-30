@@ -1,14 +1,14 @@
 # 📑 GIT-Ungu 2026: BUKU UNGU DIGITAL MPP HIMA-TRPL
 
 ## 👤 I. DATA DIRI MAHASISWA BARU
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** ADAM CHESTA ADITIO
+* **NIM:** 264311060
+* **TTL:** BLITAR 10 MEI 2008
+* **Nomer Handphone:** 085339000119
+* **Nama Kelompok:** KELOMPOK 8
+* **Asal Daerah:** BLITAR
+* **Asal Sekolah:** SMKN 1 BLITAR
+* **Fun Fact:** HUMAN-MALE
 
 ---
 
