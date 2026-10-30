@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - [ADAM_NOVERIAN]
-* <img src="assets/PANITIA/Humas/HUMAS - ADAM NOVERIAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - ADAM NOVERIAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ADAM_NOVERIAN]
 * **Jabatan:** [KETUA_HUMAS]
 * **TTL:** [SURABAYA,8_NOVEMBER_2005]
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - [MUHAMMAD_RAUFA_HAFID_WIDODO]
-* <img src="assets/PANITIA/Humas/HUMAS - MUHAMMAD RAUFA HAFID WIDODO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - MUHAMMAD RAUFA HAFID WIDODO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_RAUFA_HAFID_WIDODO]
 * **Jabatan:** [STAFF]
 * **TTL:** [MADIUN,26_SEPTEMBER_2005]
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - [ALVINA_NUR_LAILA_ANGGRAINI]
-* <img src="assets/PANITIA/Humas/HUMAS - ALVINA NUR LAILA ANGGRAINI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - ALVINA NUR LAILA ANGGRAINI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALVINA_NUR_LAILA_ANGGRAINI]
 * **Jabatan:** [STAFF]
 * **TTL:** [SURABAYA,31_MARET_2005]
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - [CRISTIAN_REYNALDI]
-* <img src="assets/PANITIA/Humas/HUMAS - CRISTIAN REYNALDI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - CRISTIAN REYNALDI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [CRISTIAN_REYNALDI]
 * **Jabatan:** [STAFF]
 * **TTL:** [JAKARTA,18_JANUARI_2007]
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - [ATHA_ARYASATYA]
-* <img src="assets/PANITIA/Humas/HUMAS - ATHA ARYASATYA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - ATHA ARYASATYA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ATHA_ARYASATYA]
 * **Jabatan:** [STAFF_MUDA]
 * **TTL:** [MADIUN,22_FEBRUARI_2005]
