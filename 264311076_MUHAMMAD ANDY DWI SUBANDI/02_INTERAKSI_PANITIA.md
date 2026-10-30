@@ -264,10 +264,10 @@
 * <img src="assets/PANITIA/PDD/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RAIHAN FIRDAUS ALFARITSI]
 * **Jabatan:** [STAFF]
-* **TTL:** [[NGAWI, 24 SEPTEMBER 2005]]
-* **Nomer Handphone:** [[0895405971849]]
-* **Username GitHub:** [@[hannnzu]]
-* **Asal Daerah:** [[NGAWI]]
+* **TTL:** [NGAWI, 24 SEPTEMBER 2005]
+* **Nomer Handphone:** [0895405971849]
+* **Username GitHub:** [@hannnzu]
+* **Asal Daerah:** [NGAWI]
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] PDD - ACHMAD ALVIN AL FALAH
