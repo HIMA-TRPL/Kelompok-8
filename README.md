@@ -54,7 +54,7 @@ Jika Anda belum pernah menggunakan GitHub sebelumnya, **jangan khawatir!** Pandu
 2. Masuk ke branch yang berisi berkas:
    * `01_BIODATA_PEMILIK.md`
    * `02_INTERAKSI_PANITIA.md` (Daftar Seluruh Panitia & Kolom TTD)
-   * `03_INTERAKSI_ANGKATAN.md` (Daftar Mahasiswa Baru 1 Angkatan)
+   * `03_KENALAN_ANGKATAN.md` (Daftar Mahasiswa Baru 1 Angkatan)
    * Sub-folder `assets/`
 3. Buka file yang ingin dikerjakan, Klik ikon ✏️ **Pensil (Edit this file)**.
 4. Ganti teks petunjuk di dalam kurung siku `[...]` dengan data asli.
@@ -74,7 +74,8 @@ Semua berkas foto wajib disimpan di dalam folder `assets/` pada branch Anda.
   3. (*drag & drop*) foto Anda ke halaman GitHub.
   4. Beri pesan commit: `upload foto panitia`, Klik **Commit changes**.
 * **Menampilkan Foto di Markdown:**  
-  Gunakan pemanggilan *relative path*: `<img src="assets/panitia/[nama_panggilan].[ext_foto]" alt="Description" style="object-fit:cover" width="300px" height="300px">`.
+  Gunakan pemanggilan *relative path*: `<img src="assets/PANITIA/[nama_panggilan].[ext_foto]" alt="Description" style="object-fit:cover" width="300px" height="300px">`.
+  > Catatan: gunakan huruf kapital sesuai nama folder asli (`PANITIA`), karena GitHub bersifat case-sensitive pada beberapa lingkungan.
 
 ---
 
