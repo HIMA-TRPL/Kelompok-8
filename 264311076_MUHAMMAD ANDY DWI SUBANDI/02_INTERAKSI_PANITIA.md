@@ -261,7 +261,6 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] PDD - RAIHAN FIRDAUS ALFARITSI
-* <img src="assets/PANITIA/PDD/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RAIHAN FIRDAUS ALFARITSI]
 * **Jabatan:** [STAFF]
 * **TTL:** [NGAWI, 24 SEPTEMBER 2005]
