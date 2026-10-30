@@ -492,6 +492,7 @@
 * **Asal Daerah:** [KALIMANTAN_TIMUR]
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
+---
 
 ---
 
