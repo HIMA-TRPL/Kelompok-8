@@ -153,14 +153,14 @@
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
-### [15] PSDM - RINDY CANTIKA AGUSTINA P.
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [RINDY CANTIKA AGUSTINA P.]
+### [15] PSDM - RINDY CANTIKA AGUSTINA PUTRI
+* <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [RINDY CANTIKA AGUSTINA PUTRI]
 * **Jabatan:** [STAFF]
-* **TTL:** [[TTL]]
-* **Nomer Handphone:** [[NOMER_HANDPHONE]]
-* **Username GitHub:** [@[USERNAME_GITHUB_16]]
-* **Asal Daerah:** [[KOTA/KABUPATEN]]
+* **TTL:** [MADIUN, 31 AGUSTUS 2006]
+* **Nomer Handphone:** [081553111275]
+* **Username GitHub:** [@111ndy]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] PSDM - TIARA MAYA LESTARI
