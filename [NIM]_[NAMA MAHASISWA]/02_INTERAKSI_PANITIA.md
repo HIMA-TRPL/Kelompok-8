@@ -474,14 +474,14 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [45] VOLUNTEER - Ervindy anjun
+### [45] VOLUNTEER - Ervindy anjun N
 * <img src="assets/PANITIA/Volunteer/06 ervindy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Ervindy anjun
-* **Jabatan:** Volunteer
-* **TTL:**
-* **Nomer_handphone:** 
-* **Username GitHub:** @
-* **Asal Daerah:** 
+* **Nama Panitia:** Ervindy anjun Nurmasari
+* **Jabatan:** Volunteer (konsumsi)
+* **TTL:** Madiun, 21 juni 06
+* **Nomer_handphone:** 085733213487
+* **Username GitHub:** @erov1n
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] VOLUNTEER - Nadya nur Kamila
