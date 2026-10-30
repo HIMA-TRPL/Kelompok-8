@@ -144,13 +144,13 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - AZZA AULIYAUL FITRI
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL FITRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA AULIYAUL FITRI]
 * **Jabatan:** [STAFF]
-* **TTL:** [[TTL]]
-* **Nomer Handphone:** [[NOMER_HANDPHONE]]
-* **Username GitHub:** [@[USERNAME_GITHUB_15]]
-* **Asal Daerah:** [[KOTA/KABUPATEN]]
+* **TTL:** [MADIUN, 19 NOVEMBER 2005]
+* **Nomer Handphone:** [089523358721]
+* **Username GitHub:** [@azzaauliyaul]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] PSDM - RINDY CANTIKA AGUSTINA P.
