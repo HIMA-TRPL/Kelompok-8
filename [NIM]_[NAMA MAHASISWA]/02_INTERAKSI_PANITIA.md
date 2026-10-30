@@ -298,7 +298,7 @@
 * <img src="assets/PANITIA/PDD/ardhana syah hidayat.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Ardhana_Syah_Hidayat]
 * **Jabatan:** [Koor_PDD]
-* **TTL:** [Ponorogo,_27-Desember-2005]
+* **TTL:** [Ponorogo,_4-juli-2005]
 * **Nomer Handphone:** [085724360447]
 * **Username GitHub:** @[Ardhana-Hidayat]
 * **Asal Daerah:** [Ponorogo]
