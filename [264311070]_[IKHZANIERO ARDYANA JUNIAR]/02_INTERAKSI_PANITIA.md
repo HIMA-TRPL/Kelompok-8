@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - [RADITYA_ALFAREEZA_PURNAMA_PUTRA]
-* <img src="assets/PANITIA/PDD/PDD - RADITYA ALFAREEZA PURNAMA_PUTRA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - RADITYA ALFAREEZA_PURNAMA_PUTRA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RADITYA_ALFAREEZA_PURNAMA_PUTRA]
 * **Jabatan:** [STAFF]
 * **TTL:** [MADIUN,4_MARET_2006]
