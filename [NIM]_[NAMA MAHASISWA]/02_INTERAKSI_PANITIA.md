@@ -201,7 +201,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - [Rindy_Cantika_Agustina_P.]
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy_Cantika_Agustina_P..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/rindy cantika agustina.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -231,7 +231,7 @@
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ### [23] PSDM - [Azza_Auliyaul_F.]
-* <img src="assets/PANITIA/PSDM/PSDM - Azza_Auliyaul_F..png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/azza auliyaul.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F.]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
