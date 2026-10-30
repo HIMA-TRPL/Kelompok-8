@@ -205,7 +205,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * **Asal Daerah:** tulungagung
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
-### [20] Sosma - muhammad rofiqul anam (dihapus)
+### [20] Sosma - muhammad rofiqul anam (DIHAPUS)
 *  <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px"> 
 * **Nama Panitia:** -
 * **Jabatan:** -
@@ -405,7 +405,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * **TTL:** Jakarta, 18 Januari 07
 * **Nomer_handphone:** 8296706472
 * **Username GitHub:** @
-* **Asal Daerah:** 
+* **Asal Daerah:** Jakarta
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [39] HUMAS - Atha Aryasatya
