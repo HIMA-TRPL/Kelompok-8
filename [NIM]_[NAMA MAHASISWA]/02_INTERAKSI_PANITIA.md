@@ -495,7 +495,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [07] VOLUNTEER - Galang Surya Prasetyo
-* <img src="assets/PANITIA/Volunteer/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/DIVISI - nama_panitia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer
 * **TTL:** tenggarong, 19 februari 2007
