@@ -253,7 +253,7 @@ II. LAPORAN INTERAKSI KELOMPOK DENGAN PANITIA
 * <img src="assets/PANITIA/PDD/01 ardhana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:**  Ardhana Syah Hidayat
 * **Jabatan:** koor PDD
-* **TTL:** Ponorogo, 27 desember 05
+* **TTL:** Ponorogo, 04 juli 05
 * **Nomer_handphone:** 85724360447
 * **Username GitHub:** @Ardhana-Hidayat
 * **Asal Daerah:** Ponorogo
