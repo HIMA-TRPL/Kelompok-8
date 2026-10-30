@@ -79,7 +79,7 @@
 ### [08] Dagri - [Dzakwan_Daris_Fakhruddin]
 * <img src="assets/PANITIA/Dagri/dzakwan daris .png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dzakwan_Daris_Fakhruddin]
-* **Jabatan:** []
+* **Jabatan:** [staff]
 * **TTL:** [Madiun,_13-April-2006]
 * **Nomer Handphone:** [085163200636]
 * **Username GitHub:** @[dzadafa]
@@ -89,7 +89,7 @@
 ### [09] Dagri - [Firdaus_Ilham_F.]
 * <img src="assets/PANITIA/Dagri/firdaus ilham.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Firdaus_Ilham_F.]
-* **Jabatan:** [Anggota]
+* **Jabatan:** [staff]
 * **TTL:** [Madiun,_01-Jan-2007]
 * **Nomer Handphone:** [081977285545]
 * **Username GitHub:** @[fadlukkr]
@@ -447,6 +447,46 @@
 * **Username GitHub:** @[aisyahnurfadillah]
 * **Asal Daerah:** [Magetan]
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
+
+### [44] Volunteer - [NADYA_NUR_KAMILA]
+* <img src="assets/PANITIA/Volunteer/nadya nur kamila.png" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [NADYA_NUR_KAMILA]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [MADIUN,01-09-2006]
+* **Nomer Handphone:** [085731873063]
+* **Username GitHub:** @[nanayaaa]
+* **Asal Daerah:** [MADIUN]
+<!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
+
+### [45] Volunteer - [ERVINDY_ANJUNI_NURMASARI]
+* <img src="assets/PANITIA/Volunteer/ervindy anjuni nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [ERVINDY_ANJUNI_NURMASARI]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [MADIUN,21-06-2006]
+* **Nomer Handphone:** [085733213487]
+* **Username GitHub:** @[erov1n]
+* **Asal Daerah:** [MADIUN]
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - [NABIL_SUNU_WIDYA_DHANA]
+* <img src="assets/PANITIA/Volunteer/nabil sunu widya dhana.png" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [NABIL_SUNU_WIDYA_DHANA]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [BEKASI,15-03-2006]
+* **Nomer Handphone:** [089503425359]
+* **Username GitHub:** @[sunuW]
+* **Asal Daerah:** [PONOROGO]
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [47] Volunteer - [GALANG_SURYA_PRASETYO]
+* <img src="assets/PANITIA/Volunteer/galang surya prasetyo.png" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [GALANG_SURYA_PRASETYO]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [TENGGARONG,19-02-2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [KALIMANTAN_TIMUR]
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
